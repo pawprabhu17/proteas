@@ -1,0 +1,32 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #007e45 !important;
+    color: #ffcc00;
+}
+
+.trans {
+    transition-timing-function: ease;
+    transition-property: all;
+    transition-duration: 0.8s;
+    margin: 1.6% auto 5% auto;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+
+.trans:hover {
+    transform: scale(1.2);
+    border-radius: 0;
+    cursor: pointer;
+}

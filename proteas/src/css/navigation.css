@@ -1,0 +1,6 @@
+h4.d-inline {
+  color: #007e45;
+}
+h4.d-inline:nth-child(2) {
+  color: #ffcc00;
+}

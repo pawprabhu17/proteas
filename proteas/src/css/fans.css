@@ -1,0 +1,39 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #007e45 !important;
+    color: #ffcc00;
+}
+
+.btn {
+
+    background-color: #007e45;
+    color: white;
+}
+
+.btn:hover {
+    background: #F0C704;
+    color: black;
+}
+
+form {
+    border: 1px solid black;
+    padding: 6%;
+    background: white;
+}
+
+.form-control-file,
+.fileName {
+    border: 1px solid black;
+    max-width: 500px;
+}

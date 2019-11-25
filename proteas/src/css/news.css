@@ -1,0 +1,26 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #007e45 !important;
+    color: #ffcc00;
+}
+
+.btn {
+    background: #F0C704;
+    color: black;
+}
+
+.btn:hover {
+    background-color: #007e45;
+    color: white;
+}
